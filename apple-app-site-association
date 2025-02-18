@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "N5X64RWSH8.com.thingzmate.palm",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
