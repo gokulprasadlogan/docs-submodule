@@ -1,0 +1,3 @@
+[submodule "main-docs"]
+	path = main-docs
+	url = https://github.com/gokulprasadlogan/main-docs
